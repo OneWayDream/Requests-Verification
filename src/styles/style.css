@@ -1,0 +1,32 @@
+:root {
+  --red: tomato;
+  --bgColor: bisque;
+}
+
+.stDataFrame {
+  background: #C5D0E6;
+  border-radius: 2%;
+  opacity: 100%;
+}
+
+/* Info container */
+.eyqtai90 {
+  background: #C5D0E6;
+  border-radius: 2%;
+  opacity: 100%;
+  text-align: center;
+}
+
+/* Column style */
+.e1tzin5v2 {
+  /*background: #C5D0E6;*/
+  /*border-radius: 2%;*/
+  /*opacity: 70%;*/
+}
+
+.stSlider {
+   background: #C5D0E6;
+   border-radius: 5%;
+   opacity: 100%;
+   text-align: center;
+}

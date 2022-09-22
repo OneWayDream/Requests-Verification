@@ -1,0 +1,1 @@
+{"update-time": 185400, "store-limit": 100000, "select-mode": "Anomaly search (COPOD)", "process-id": 10256, "vectorization_model": "vectorization_model", "clusterization_model": "clusterization_model", "classification_model": "lgbm_model", "experiment_id": "1", "run_id": "1d4cc00d82aa43e58faa56ed8d01b467", "model_marks": [0, 1, 2, 5, 6]}
