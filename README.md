@@ -17,7 +17,7 @@
 
 > This streamlit app allows you to load your dataset, prepare it (a little bit) and build a model to predict the harm of new requests.
 
-![Client get token](https://github.com/OneWayDream/Requests_Verification/blob/main/images/application_image.png?raw=true)
+![Client get token](https://github.com/OneWayDream/Requests-Verification/blob/main/images/application_image.png?raw=true)
 
 ## Basic commands:
 > * `cd /src - переход в папку ресурсов проекта (и запускать всё дальше именно там)`
